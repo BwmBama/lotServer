@@ -1,5 +1,11 @@
 # lotServer
 
+lotServer文件源自萌咖大佬，KeyGen api 源自风铃大佬
+
+优化了lotServer默认参数(maxmode=1预警)
+
+替换许可证，延长有效期至2099-12-31
+
 
 ## 用户安装
 ### 常规自动安装
